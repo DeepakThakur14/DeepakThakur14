@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://leetcode.com/u/Deepak_Thakur01/">
-<img src="https://img.shields.io/badge/LEETCODE-Deepak_Thakur01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LEETCODE-Deepak_Thakur01-FFA116?style=for-the-badge&logo=leetcode&logoColor=blue" alt="LeetCode"/>
 </a>
 
 <br><br>
