@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Deepak Thakur Header">
+  <img src="./heade.svg" width="100%" alt="Deepak Thakur Header">
 </p>
 
 <p align="center">
