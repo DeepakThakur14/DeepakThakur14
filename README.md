@@ -1,28 +1,32 @@
 <div align="center">
 
-# 👋 Hi, I'm Deepak Thakur
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Deepak%20Thakur&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-### AI & Data Science | Java DSA | Web Development | Flask
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science;Java+%7C+DSA+%7C+Problem+Solving;Web+Development+%7C+Flask;Machine+Learning+%7C+Python;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG"/>
 
-<p>
-  <a href="https://github.com/DeepakThakur14">
-    <img src="https://img.shields.io/badge/GitHub-DeepakThakur14-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/deepak-thakur-48814a319">
-    <img src="https://img.shields.io/badge/LinkedIn-Deepak%20Thakur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/Deepak_Thakur01/">
-    <img src="https://img.shields.io/badge/LeetCode-Deepak_Thakur01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-</p>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=DeepakThakur14&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views">
+<a href="https://github.com/DeepakThakur14">
+<img src="https://img.shields.io/badge/GITHUB-DeepakThakur14-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/deepak-thakur-48814a319">
+<img src="https://img.shields.io/badge/LINKEDIN-Deepak%20Thakur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://leetcode.com/u/Deepak_Thakur01/">
+<img src="https://img.shields.io/badge/LEETCODE-Deepak_Thakur01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=DeepakThakur14&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
 ```text
 Name             : Deepak Thakur
