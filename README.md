@@ -7,7 +7,7 @@
 <br>
 
 <a href="https://github.com/DeepakThakur14">
-<img src="https://img.shields.io/badge/GITHUB-DeepakThakur14-181717?style=for-the-badge&logo=github&logoColor=white backgound-color=purple" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-DeepakThakur14-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/deepak-thakur-48814a319">
